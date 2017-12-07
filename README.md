@@ -1,6 +1,13 @@
 # Simple Blockchain Example on JavaScript #
 
-Command to run
+## Installation
+
+Using npm:
+``` sh
+$ npm install
 ```
-$ npm start
+
+Super simple to use:
+```
+npm start
 ```
